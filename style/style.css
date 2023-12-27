@@ -14,6 +14,15 @@ body {
     height: 100vh;
     background-color: darkgray;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
 }
 
