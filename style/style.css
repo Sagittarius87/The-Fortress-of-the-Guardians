@@ -9,8 +9,20 @@ body {
     overflow: hidden;
 }
 
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+}
+
 #canvas {
+    width: auto;
+    height: auto;
+    /*    
     width: 256px;
     height: 240px;
+    */
     background-color: chartreuse;
 }
