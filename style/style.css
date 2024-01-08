@@ -27,8 +27,10 @@ body {
 }
 
 #canvas {
+    /*
     width: auto;
-    height: auto;
+    */
+    height: 100vh;
     /*    
     width: 256px;
     height: 240px;
